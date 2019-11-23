@@ -1,0 +1,17 @@
+﻿  ProjetoLouvain.cpp
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(146,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(163,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(181,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(197,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(198,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(217,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(219,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(229,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(231,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(256,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(258,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(260,22): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(281,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(342,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\marce\OneDrive\Área de Trabalho\comunidades\civil\ProjetoLouvain.cpp(347,21): warning C4018: '<': incompatibilidade de signed/unsigned
+  civil.vcxproj -> C:\Users\marce\OneDrive\Área de Trabalho\comunidades\Debug\civil.exe
